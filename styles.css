@@ -15,7 +15,7 @@ body{
     border-radius: 10px;
     overflow: hidden;
     background-color:  hsl(0, 0%, 100%);
-    align-items: center;
+
 }
 img{
     width: 100%;
@@ -71,6 +71,7 @@ margin-bottom: 17px;
 padding: 29px;  
 }
 .image-container{
+
     flex: 1;
 }
 .mobile{
